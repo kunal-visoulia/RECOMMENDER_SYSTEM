@@ -3,11 +3,11 @@ his is a submission for the Recommender challenge by Siraj Raval's 'Learn Python
 
 
 # CHALLENGE
-# part 1 of 2 : 
+## part 1 of 2 : 
 write your own fetch and format method for a different recommendation
 dataset. I used the last.fm dataset for song Artist Recommender : http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-360K.html
 ## Note: The dataset was very large (1.6 GB), So i used only first 100K 
-# part 2 of 2 :
+## part 2 of 2 :
 use 3 different loss functions (so 3 different models), compare results, print results for
 #the best one. - Available loss functions are warp, logistic, bpr, and warp-kos.
 
